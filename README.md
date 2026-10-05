@@ -15,6 +15,4 @@ I build small, useful tools: the kind I wish already existed. Everything I make 
   </tr>
 </table>
 
-https://github.com/user-attachments/assets/4ff0eb41-04a6-4f8b-8f18-f7677fd23927
-
 More tools to come. Ideas or feedback? Open an issue on any project.
